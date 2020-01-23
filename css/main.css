@@ -71,6 +71,7 @@ body { overflow-x: hidden; }
 /*Start of form section*/
 .signup { background-color: #e9ecef; }
 .signup p { color: black; }
+.signup .Message{margin-top: 2rem; margin-bottom: 2rem;}
 .signup .Message input { width: 100%; padding: 3rem; }
 .signup .form { background-color: white; margin-top: 2rem; margin-bottom: 2rem; }
 .signup .form h2 { color: white; font-size: 20px; text-align: center; padding: 10px; background-color: #241d1d; }
