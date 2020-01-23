@@ -1,0 +1,4 @@
+@media(max-width:767px){} /*xs screens mobile*/
+@media(min-width:768px){} /*sm screens mobile*/
+@media(min-width:992px){} /*md screens mobile*/
+@media(min-width:1200px){} /*lg screens mobile*/
