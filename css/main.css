@@ -18,7 +18,7 @@ body { overflow-x: hidden; }
 .navbar-light .navbar-nav .nav-link { color: #3d3d42; }
 .navbar-light .navbar-nav .nav-link:hover { color: #1e1e24; }
 /*Start of Header*/
-.header { background: url(../img/03.jpg) no-repeat; background-size: cover; height: 100vh; position: relative; }
+.header { background: url(../img/03.jpg) no-repeat center; background-size: cover; height: 100vh; position: relative; }
 .header .brand { margin: 11rem 1rem auto; color: white; }
 .header .brand span { color: #ff4b3e; }
 .header .brand .design { color: #807270; }
